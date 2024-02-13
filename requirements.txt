@@ -1,1 +1,2 @@
 future
+aiohttp>=3.9.2
